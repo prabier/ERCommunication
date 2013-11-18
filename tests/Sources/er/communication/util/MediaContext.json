@@ -1,0 +1,17 @@
+{
+    "context1": {
+        "Medias": [
+            "PLAIN_TEXT_MAIL",
+            "HTML_MAIL"
+        ],
+        "PLAIN_TEXT_MAIL": {
+            "mailTextKey": "mailTextValue"
+        },
+        "HTML_MAIL": {
+            "component": "MyComponent"
+        }
+    },
+    "context2": [
+        "PLAIN_TEXT_MAIL"
+    ]
+}
