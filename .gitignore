@@ -16,7 +16,6 @@ Icon
 
 ### Eclipse ###
 *.pydevproject
-.project
 .metadata
 bin
 build
@@ -47,7 +46,6 @@ local.properties
 *.class
 
 # Package Files #
-*.jar
 *.war
 *.ear
 
